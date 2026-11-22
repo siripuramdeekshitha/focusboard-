@@ -1,21 +1,19 @@
 # AI Usage
 
-**Tools used:** Claude (Anthropic) - <!-- edit: add any other tool you used, or write None -->
+## Tools used
+Claude (Anthropic) and ChatGPT (OpenAI).
 
 ## Representative prompts
-<!-- Replace with 2-5 prompts YOU actually sent. Examples: -->
-1. "I need your help to build this assessment" (attached the task brief and Figma screenshots)
-2. <!-- your next prompt -->
-3. <!-- your next prompt -->
+1. "I need your help to build this assessment." (Provided the task brief and design reference.)
+2. "Help me build a responsive FocusBoard dashboard using React."
+3. "Help me implement task creation, editing, deletion, status updates, search and filters."
+4. "Help me implement localStorage and responsive layouts."
 
 ## AI-assisted areas
-- Initial project structure and component breakdown
-- Reducer + localStorage logic, filter/search helpers
-- First draft of the CSS, which I then compared with Figma and adjusted
-- README draft
+- Initial project structure and component breakdown.
+- Assistance with React state management and task functionality.
+- CSS styling and responsive design suggestions.
+- Debugging and documentation preparation.
 
 ## One suggestion I checked, corrected or rejected
-<!-- Write this in your own words after you actually test the app. Ideas to check:
-     - Did the first-draft spacing/colours match Figma? What did you change?
-     - Did delete/edit/filters behave correctly in every combination?
-     - Did anything break at 390px or 768px, and how did you fix it? -->
+I reviewed the AI-generated suggestions against the assignment requirements and checked the application's layout and interactions. I made adjustments where necessary to improve functionality and responsive behavior.
