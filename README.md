@@ -3,7 +3,7 @@
 A responsive, single-user task dashboard built from the FocusBoard Figma reference.
 Frontend only - no backend. Data is stored in the browser (`localStorage`).
 
-- **Live URL:** https://focusboard-eta.vercel.app/ <!-- add after deploying -->
+- **Live URL:** https://focusboard-eta.vercel.app/ 
 - **GitHub:** https://github.com/siripuramdeekshitha/focusboard-
 
 ## Screenshots
